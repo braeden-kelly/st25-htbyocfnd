@@ -1,1 +1,16 @@
-
+- Agentic AI
+- SAAS is dead and this is the year of AI agents
+- No one knows what the hell an AI agent is
+- AI agents are systems that can reason over a business process, retrieve context to complete the process, perform an action for the end user 
+- Many options for .NET devs 
+- copilot studio
+  - like logic apps
+  - uses connectors 
+  - pre built code
+- all of the solutions Microsoft has requires you to have a model you built or can connect to
+- autogen
+- semantic kernel
+- Microsoft.extensions.ai
+  - abstractions for common model services (similar to logging abstraction) 
+- azure ai foundry (azure ai studio) 
+- azure ai agent service
