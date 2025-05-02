@@ -1,1 +1,2 @@
 - https://stirtrek.com/speakers/2025/Brian-McKeiver.html#abstract
+- https://www.mcbeev.com/stirtrek-25
